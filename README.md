@@ -17,6 +17,8 @@ And after my skin has been thus destroyed,
 For your dew is a dew of light,
     and the earth will give birth to the dead. Yeshayahu - Isaiah 26:19*
 
+[![kdcllc's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdcllc&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdcllc&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kdcllc/kdcllc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
